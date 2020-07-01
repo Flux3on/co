@@ -4,7 +4,7 @@ Come out quick lol
 
 Based on a project by [BatCake69](https://github.com/Batcake69)
 
-The file names are based on the MD5 hash of the sexuality/gender identity name (so they can't be decrypted by your parents because what do they know about cryptography).
+The file names are based on the MD5 hash of the sexuality/gender identity name (so they can't be decrypted by your parents because what do they know about cryptography (not that it could be figured out anyway lol)).
 
 So far, flags have been made for:
 
