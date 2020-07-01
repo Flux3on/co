@@ -1,3 +1,5 @@
+# Come out quick with these links :)
+
 Come out quick lol
 
 Based on a project by [BatCake69](https://github.com/Batcake69)
