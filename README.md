@@ -10,3 +10,4 @@ So far, flags have been made for:
 
 - [Lesbian](https://flux3on.github.io/co/f83d1d6a12fda81723574437436b05e7.html)
 - [Transgender](https://flux3on.github.io/co/2d632e7f0b20d419852012d299cb401b.html)
+- [Genderfluid](https://flux3on.github.io/co/19a6e1ecb921e3b1713d74c76da72b31.html)
