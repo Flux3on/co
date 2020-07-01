@@ -8,6 +8,7 @@ The file names are based on the MD5 hash of the sexuality/gender identity name (
 
 So far, flags have been made for:
 
+- [Bisexual](https://flux3on.github.io/co/1b5799dbb678e0890bd693d30faae5ae.html)
+- [Genderfluid](https://flux3on.github.io/co/19a6e1ecb921e3b1713d74c76da72b31.html)
 - [Lesbian](https://flux3on.github.io/co/f83d1d6a12fda81723574437436b05e7.html)
 - [Transgender](https://flux3on.github.io/co/2d632e7f0b20d419852012d299cb401b.html)
-- [Genderfluid](https://flux3on.github.io/co/19a6e1ecb921e3b1713d74c76da72b31.html)
